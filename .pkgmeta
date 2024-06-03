@@ -1,0 +1,10 @@
+package-as: CameraOverShoulderFix
+
+enable-toc-creation: yes
+
+move-folders:
+  CameraOverShoulderFix/src: CameraOverShoulderFix
+
+ignore:
+  - LICENSE
+  - README.md
