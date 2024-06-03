@@ -1,6 +1,6 @@
 package-as: CameraOverShoulderFix
 
-enable-toc-creation: yes
+enable-toc-creation: no
 
 move-folders:
   CameraOverShoulderFix/src: CameraOverShoulderFix
